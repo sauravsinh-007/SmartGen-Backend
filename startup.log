@@ -1,0 +1,5 @@
+2026-05-31 13:09:34 [[32minfo[39m]: MongoDB connected: localhost
+2026-05-31 13:09:34 [[32minfo[39m]: WardrobeAI server running on port 5000 in development mode
+[0mGET /health [32m200[0m 3.662 ms - 105[0m
+[0mGET /api/v1 [33m404[0m 1.441 ms - 35[0m
+[0mGET /favicon.ico [33m404[0m 1.088 ms - 40[0m

@@ -1,0 +1,7 @@
+{"level":"error","message":"MongoDB initial connection failed:","timestamp":"2026-05-31 12:56:41"}
+{"level":"error","message":"MongoDB initial connection failed:","timestamp":"2026-05-31 12:56:42"}
+{"level":"error","message":"MongoDB initial connection failed:","timestamp":"2026-05-31 12:57:13"}
+{"level":"error","message":"MongoDB initial connection failed:","timestamp":"2026-05-31 12:57:45"}
+{"http_code":401,"level":"error","message":"POST /api/v1/clothing - 500: Unknown API key your_api_key","name":"Error","timestamp":"2026-06-03 00:20:42"}
+{"http_code":401,"level":"error","message":"POST /api/v1/clothing - 500: Unknown API key your_api_key","name":"Error","timestamp":"2026-06-03 00:21:03"}
+{"http_code":401,"level":"error","message":"POST /api/v1/clothing - 500: Unknown API key your_api_key","name":"Error","timestamp":"2026-06-03 00:21:17"}
